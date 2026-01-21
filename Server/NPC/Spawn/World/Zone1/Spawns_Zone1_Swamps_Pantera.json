@@ -1,0 +1,16 @@
+{
+  "Environments": [
+    "Env_Zone1_Swamps"
+  ],
+  "NPCs": [
+    {
+      "Weight": 2,
+      "SpawnBlockSet": "Mud",
+      "Id": "Pantera_Sabertooth"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

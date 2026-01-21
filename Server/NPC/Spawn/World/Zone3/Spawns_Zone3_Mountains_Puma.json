@@ -1,0 +1,16 @@
+{
+  "Environments": [
+    "Env_Zone3_Mountains"
+  ],
+  "NPCs": [
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "Soil",
+      "Id": "Puma_Sabertooth"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

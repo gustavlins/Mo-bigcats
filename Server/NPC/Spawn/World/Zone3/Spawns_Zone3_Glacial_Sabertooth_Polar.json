@@ -1,0 +1,16 @@
+{
+  "Environments": [
+    "Env_Zone3_Glacial"
+  ],
+  "NPCs": [
+    {
+      "Weight": 5,
+      "SpawnBlockSet": "IceAndSnow",
+      "Id": "Polar_Sabertooth"
+    }
+  ],
+  "DayTimeRange": [
+    6,
+    18
+  ]
+}

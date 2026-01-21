@@ -1,0 +1,26 @@
+{
+  "Environments": [
+    "Env_Zone1_Azure"
+  ],
+  "NPCs": [
+    {
+      "Weight": 2,
+      "SpawnBlockSet": "Soil",
+      "Id": "Purple_Azure_Sabertooth"
+    },
+    {
+      "Weight": 2,
+      "SpawnBlockSet": "Soil",
+      "Id": "Green_Azure_Sabertooth"
+    },
+    {
+      "Weight": 2,
+      "SpawnBlockSet": "Soil",
+      "Id": "Azure_Sabertooth"
+    }
+  ],
+  "DayTimeRange": [
+    0,
+    24
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "Model": "NPC/Beast/Tiger_Sabertooth/Models/Snow_Model.blockymodel",
+  "Texture": "NPC/Beast/Tiger_Sabertooth/Models/Snow_Leopard_Blue_Texture.png",
+  "AnimationSets": {
+    "Run": {
+      "Animations": [
+        {
+          "Animation": "NPC/Beast/Tiger_Sabertooth/Animations/Default/Run.blockyanim",
+          "Speed": 0.8,
+          "SoundEventId": "SFX_Leopard_Snow_Run"
+        }
+      ]
+    },
+    "Alerted": {
+      "Animations": [
+        {
+          "Animation": "NPC/Beast/Tiger_Sabertooth/Animations/Default/Alerted.blockyanim",
+          "Looping": false,
+          "SoundEventId": "SFX_Leopard_Snow_Alerted"
+        }
+      ]
+    },
+    "Hurt": {
+      "Animations": [
+        {
+          "Animation": "NPC/Beast/Tiger_Sabertooth/Animations/Damage/Hurt.blockyanim",
+          "BlendingDuration": 0.1,
+          "Looping": false,
+          "SoundEventId": "SFX_Leopard_Snow_Hurt"
+        },
+        {
+          "Animation": "NPC/Beast/Tiger_Sabertooth/Animations/Damage/Hurt2.blockyanim",
+          "BlendingDuration": 0.1,
+          "Looping": false,
+          "SoundEventId": "SFX_Leopard_Snow_Hurt"
+        }
+      ]
+    },
+    "Death": {
+      "Animations": [
+        {
+          "Animation": "NPC/Beast/Tiger_Sabertooth/Animations/Damage/Death.blockyanim",
+          "Looping": false,
+          "SoundEventId": "SFX_Leopard_Snow_Death"
+        }
+      ]
+    }
+  },
+  "Icon": "Icons/ModelsGenerated/Ice_Snow_Leopard.png",
+  "IconProperties": {
+    "Scale": 0.25,
+    "Rotation": [
+      0,
+      -45,
+      0
+    ],
+    "Translation": [
+      0,
+      -75
+    ]
+  }
+}

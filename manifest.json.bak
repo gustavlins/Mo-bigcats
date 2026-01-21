@@ -1,0 +1,25 @@
+{
+  "Group": "Nannisen_&_Crypted",
+  "Name": "Mo'Bigcats",
+  "Version": "1.0.0",
+  "Description": "Mo'Bigcats is a mod that focuses on adding more bigcats to the world.",
+  "Authors": [
+    {
+      "Name": "Nannisen",
+      "Email": "",
+      "Url": ""
+    },
+	 {
+      "Name": "Crypted",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
